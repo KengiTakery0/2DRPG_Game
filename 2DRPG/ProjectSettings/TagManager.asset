@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 227656689
+    locked: 0
+  - name: LIght
+    uniqueID: 3201839643
+    locked: 0
+  - name: ForeGround
+    uniqueID: 3169757653
+    locked: 0
+  - name: Cosmetic
+    uniqueID: 4207673099
+    locked: 0
+  - name: Creatures
+    uniqueID: 3802722223
+    locked: 0
+  - name: Envierment
+    uniqueID: 1421507841
+    locked: 0
+  - name: UI
+    uniqueID: 3346434103
+    locked: 0
+  - name: VFX
+    uniqueID: 3988374455
+    locked: 0
